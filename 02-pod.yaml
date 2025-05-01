@@ -6,6 +6,6 @@ metadata:
   
 # one pod can contain multiple containers  
 spec:
-containers:
-  - name: nginx
-    image: nginx
+  containers:
+    - name: nginx
+      image: nginx
