@@ -1,4 +1,4 @@
-kind: Pod 
+kind: Namespace 
 apiVersion: V1
 metadata:
   name: expense
