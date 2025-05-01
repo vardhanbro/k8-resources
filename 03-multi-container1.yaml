@@ -5,8 +5,8 @@ metadata:
    namespace:
 
 spec:
-containers: 
-- name: nginx
-  image: nginx
-- name: almalinux
-  image: almalinux:9
+  containers: 
+  - name: nginx
+    image: nginx
+  - name: almalinux
+    image: almalinux:9
