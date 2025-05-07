@@ -7,6 +7,6 @@ metadata:
     component : backend
     enivornment: dev
 spec:
-containers:
-- name: nginx
-  image: nginx
+  containers:
+  - name: nginx
+    image: nginx
