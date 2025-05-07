@@ -1,0 +1,13 @@
+kind: Pod
+apiVersion: v1
+metadata: 
+  - name: multi-conatiners
+    namespace:
+
+spec:
+  containers:
+    -name:
+     namespace:
+    -name:
+     namespace:
+    command: ["sleep" ,"1000"]   
